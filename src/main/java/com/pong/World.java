@@ -1,5 +1,4 @@
 package com.pong;
-import java.awt.Color;
 import java.awt.event.*;
 
 
